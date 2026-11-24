@@ -1,0 +1,12 @@
+{
+  "id": "Sts2ActionPack",
+  "name": "尖塔整活动作拓展包 (Spire Funny Action Pack)",
+  "author": "STS2Mods",
+  "description": "《杀戮尖塔2》全六大原生角色专属搞笑动作拓展包（铁甲战士、静默猎手、故障机器人、亡灵契约师+奥斯蒂、储君+小随从、愚者）：支持高抬腿（J）、奶蛙捧腹大笑（K）、玉兔公主舞（L）、挑衅拍屁股鬼脸（U），原生 Spine 骨骼驱动 + 粒子特效，支持单机独立使用与 CoopQolSuite 联机弹幕/快捷栏同步。",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false,
+  "min_game_version": "0.110.0"
+}
